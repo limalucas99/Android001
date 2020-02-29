@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tela"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="false"
+    android:layout_weight="0"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="0"
+        android:layout_weight="1"
+        android:text="@string/street_fighter"
+        android:textColor="#FD0101"
+        android:textColorHighlight="#ABE20E0E"
+        android:textSize="@dimen/font_smartphones" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="@dimen/tamanho_imagem_smartphones"
+        android:layout_height="0"
+        android:layout_weight="2"
+        app:srcCompat="@drawable/china" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="0"
+        android:layout_weight="1"
+        android:text="@string/china"
+        android:textColor="#F8C944"
+        android:textSize="@dimen/font_smartphones" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="250dp"
+        android:layout_height="0"
+        android:layout_weight="2"
+        app:srcCompat="@drawable/ps_china_chunli" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="0"
+        android:layout_weight="1"
+        android:text="@string/Chun-li"
+        android:textColor="#0F24E7"
+        android:textSize="@dimen/font_smartphones" />
+
+
+</LinearLayout>

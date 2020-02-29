@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">atividade1_internacionalizacao_StreetFighter</string>
+    <string name="china">China</string>
+    <string name="street_fighter">Street fighter</string>
+    <string name="alemanha">Alemanha</string>
+    <string name="juli">Juli</string>
+    <string name="ar_bia_saudita">Arábia saudita</string>
+    <string name="rashid">Rashid</string>
+    <string name="gr_cia">Grécia</string>
+    <string name="urien">Urien</string>
+    <string name="italia">Italia</string>
+    <string name="rose">Rose</string>
+</resources>

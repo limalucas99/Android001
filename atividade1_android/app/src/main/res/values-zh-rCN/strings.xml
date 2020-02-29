@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">atividade1_internacionalizacao_StreetFighter</string>
+    <string name="china">中國</string>
+    <string name="alemanha">"德國 "</string>
+    <string name="juli">朱麗</string>
+    <string name="ar_bia_saudita">"沙特阿拉伯 "</string>
+    <string name="rashid">"拉希德 "</string>
+    <string name="gr_cia">"希臘 "</string>
+    <string name="urien">"烏里恩 "</string>
+    <string name="italia">義大利</string>
+    <string name="rose">"玫瑰色 "</string>
+    <string name="street_fighter">街頭霸王</string>
+</resources>

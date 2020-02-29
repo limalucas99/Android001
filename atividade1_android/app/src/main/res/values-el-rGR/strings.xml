@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ratividade1_internacionalizacao_StreetFighter</string>
+    <string name="alemanha">Γερμανία</string>
+    <string name="juli">Τζούι</string>
+    <string name="ar_bia_saudita">Σαουδική Αραβία</string>
+    <string name="rashid">Ράσιντ</string>
+    <string name="gr_cia">Ελλάδα</string>
+    <string name="urien">Urien</string>
+    <string name="italia">Ιταλία</string>
+    <string name="rose">Rose</string>
+    <string name="china">Κίνα</string>
+    <string name="street_fighter">"Ο μαχητής του δρόμου "</string>
+</resources>

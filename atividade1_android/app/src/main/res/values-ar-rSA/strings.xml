@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">atividade1_internacionalizacao_StreetFighter</string>
+    <string name="alemanha">ألمانيا</string>
+    <string name="juli">جولي</string>
+    <string name="ar_bia_saudita">المملكة العربية السعودية</string>
+    <string name="rashid">راشد</string>
+    <string name="gr_cia">يونان</string>
+    <string name="urien">Urien</string>
+    <string name="italia">إيطاليا</string>
+    <string name="rose">"روز "</string>
+    <string name="china">الصين</string>
+    <string name="street_fighter">"قتال الشوارع "</string>
+</resources>

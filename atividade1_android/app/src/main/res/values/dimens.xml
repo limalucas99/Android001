@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamanho_imagem_smartphones">250</dimen>
+    <dimen name="tamanho_img_tablets">300dp</dimen>
+    <dimen name="font_smartphones">24sp</dimen>
+</resources>

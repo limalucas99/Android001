@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ratividade1_internacionalizacao_StreetFighter</string>
+    <string name="alemanha">Germania</string>
+    <string name="juli">Juli</string>
+    <string name="ar_bia_saudita">"Arabia Saudita "</string>
+    <string name="rashid">Rashid</string>
+    <string name="gr_cia">Grécia</string>
+    <string name="urien">Urien</string>
+    <string name="italia">Italia</string>
+    <string name="rose">Rose</string>
+    <string name="street_fighter">"Combattente "</string>
+    <string name="china">porcellana</string>
+</resources>
